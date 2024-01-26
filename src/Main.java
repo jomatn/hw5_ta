@@ -1,8 +1,4 @@
 public class Main {
-    public static void main(String[] args) {
-
-
-        public class Main {
             public static void main(String[] args) {
                 boss boss = new boss();
                 boss.setBossHealth(450);
@@ -33,6 +29,3 @@ public class Main {
                 return heroes;
             }
         }
-
-    }
-}
